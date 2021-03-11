@@ -43,5 +43,5 @@ Multi-line snippets paste as single line.
 ## Side note:
 I'm a new developer, but I'm further along than I was yesterday. If you're equally
 (or more) new, hit me up! I love learning new skills from others and teaching
-folks who are just getting started. Check out my LinkedIn for the kind of stuff
-I can do- I'd love to hop on a zoom call with a newbie and info dump.
+folks who are just getting started in CS. Check out my LinkedIn for the kind of
+stuff I can do- I'd be glad to hop on a zoom call with a newbie and info dump.
