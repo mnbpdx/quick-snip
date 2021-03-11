@@ -21,7 +21,7 @@ snippets folder (obviously) in JSON format. Don't worry about messing with
 the SQLite Database, that's the old way to do it, I believe.
 
 ## Alternate Trigger:
-You can also access the Add Snippet action via the '\\snip' snippet trigger.
+You can also access the Add Snippet action via the '\\\\snip' snippet trigger.
 It was my original plan to create a Snippet Trigger -> New Snippet Workflow. 
 I haven't flushed it out completely yet though, so that route is a bit more 
 cumbersome than getting into the workflow via hotkey, especially because of 
