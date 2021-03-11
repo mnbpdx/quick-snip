@@ -7,6 +7,9 @@ This Alfred Workflow attepts to make snippets quicker to create.
 2. Enter name:keyword:snippet into Alfred.
 3. Script runs and adds snippet.
 
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/19321892/110838005-d064d700-8256-11eb-9ec9-72094a4101d6.png">
+
+
 ## How to get it:
 1. Download the latest release
 2. Click on it, Alfred should open and import it
