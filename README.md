@@ -43,6 +43,14 @@ started with Alfred workflows and bash scripting.
 ## Known issues:
 Multi-line snippets paste as single line.
 
+## Acknowledgements:
+
+Thanks to these lovely folks and their repos:  
+https://github.com/derickfay/import-alfred-snippets  
+https://github.com/timepigeon/add-snippet.alfredworkflow  
+https://www.alfredforum.com/topic/3119-create-new-snippet/  
+https://gist.github.com/brandonjp/5d36299fcf03800b566a  
+
 ## Side note:
 I'm a new developer, but I'm further along than I was yesterday. If you're equally
 (or more) new, hit me up! I love learning new skills from others and teaching
