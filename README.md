@@ -9,7 +9,8 @@ This Alfred Workflow attepts to make snippets quicker to create.
 
 ## How to get it:
 1. Download the latest release
-2. Click on it, Alfred should open
+2. Click on it, Alfred should open and import it
+3. Customize to your liking
 
 Hot tip for those just getting started on working on Alfred stuff:
 Everything is located here:  
