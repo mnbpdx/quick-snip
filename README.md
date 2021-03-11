@@ -31,6 +31,8 @@ know if that's possible.
 ## Notes:
 - Autocomplete is set as the default. Check out the script if you want to 
 change that, should be pretty easy to figure out.
+- Make sure to use a colon as your delimeter. This can be changed in the script if you want.
+- My script should ignore all but the first two colons.
 - Please let me know if you've got ideas to improve this! I'm just getting
 started with Alfred workflows and bash scripting.
 
