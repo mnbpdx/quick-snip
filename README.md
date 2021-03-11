@@ -1,5 +1,5 @@
 # quick-snip
-This Alfred workflow attepts to make snippets quicker to create.
+This Alfred Workflow attepts to make snippets quicker to create.
 
 
 ## Workflow:
